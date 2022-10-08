@@ -9,7 +9,7 @@ loop = false
 limit = 50 -- limit auto reconnect
 
 -- world list & id world list --
-world = {"Hbsaf", "KNMWJ", "UHUTM"}
+world = {"Hbsaf", "KNMWJ", "UHUTM", "BNMCP", "OLGJY"}
 world_id = "NaBismillah"
 
 -- drop seed --
